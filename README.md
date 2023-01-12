@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋😵‍
+
+As an undergraduate student studying computer science at the University of Illinois, I've developed a passion for full stack development. Creating tools that make peoples' lives better excites me and hopefully I can make a living doing so. 
+
+I'm comfortable with a variety of technologies including: Python, Java, C++, Javascript, C, Flask, Vue.js, React.js, Docker, AWS S3, Git, Linux, Pytest, Catch2, Pandas, Numpy, Networkx, Sklearn, Selenium, BS4, Altair, Matplotlib, Spacy, NLTK, TensorFlow, RLlib
+
+Outside of coding hunched over at my desk, I enjoy watching nature documentaries, playing chess, and learning new ideas (anything from biology to psychology to economics). 
 
 <!--
 **ethanbg2/ethanbg2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning: full stack development and mobile app development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
