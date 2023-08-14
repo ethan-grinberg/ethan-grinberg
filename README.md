@@ -6,6 +6,8 @@ Vue.js, Node.js, Python, and PostgreSQL is my go-to tech stack, but I'm open to 
 
 Outside of automating everything, I enjoy chess, soccer, and videos of Orangutans driving golf carts.
 
+![](orangutan-driving.gif)
+
 Check out my [website](https://ethan-grinberg.github.io) to see some of my work and contact info!
 
 <!--
